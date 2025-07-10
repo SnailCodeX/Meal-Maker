@@ -23,6 +23,7 @@ const menu = {
   }
 };
 
+// TESTING EXAMPLE
 menu.meal = 'tortillas';
 menu.price = 100;
 console.log(menu.meal);
