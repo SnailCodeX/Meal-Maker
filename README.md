@@ -1,9 +1,9 @@
-# Meal-Maker h2 
+# Meal-Maker
 
 A function to automotize setting a meal and price each morning for Today’s Special in a restorant website
 *Following the Basics*
 
-##Made in Js for fun and educational purposes.
+## Made in Js for fun and educational purposes.
 
 ### **Highlights:**
   + Js Objects, methnods and Factory functions
